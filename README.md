@@ -2,16 +2,6 @@
 
 This project contains that adding the JIRA calendar with Blazor Scheduler.
 
-## Table of content
-1. [Prerequisites](#prerequisites)
-2. [How to run the project](#how-to-run-the-project)
-3. [Add Credentials](#add-credentials)
-4. [Add Rest API Url](#add-rest-api-url)
-5. [Note on JIRA Credentials](#note-on-jira-credentials)
-6. [Troubleshooting](#troubleshooting)
-
-
-
 ## Prerequisites
 
 * Visual Studio 2022 or later 
