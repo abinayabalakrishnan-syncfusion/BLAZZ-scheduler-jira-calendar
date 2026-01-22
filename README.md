@@ -45,5 +45,6 @@ JIRA credentials and the REST API URL are required to authenticate with the JIRA
 - **REST API call fails**: Ensure the REST API URL and sprint ID are correct and reachable.
 - **Scheduler not rendering**: Confirm scheduler packages are restored and licensing (if required) is configured.
 - **Runtime errors**: Clean and rebuild the solution and ensure .NET SDK 8.0+ is installed.
+- - **License banner:** Obtain and register a Syncfusion license key [Link](https://ej2.syncfusion.com/angular/documentation/licensing/overview).
 
 
